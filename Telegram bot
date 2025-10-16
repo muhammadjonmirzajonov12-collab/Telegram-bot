@@ -1,4 +1,1 @@
-# Telegram-bot
-My telegram bot projekt 
-pp install -r requirements.txt
-python Bot.py
+worker : python bot.py
